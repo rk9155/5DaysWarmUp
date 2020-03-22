@@ -36,7 +36,10 @@
 
 |**Problem**| **My Solution**|
 |-----------|----------------|
-| [Unique No.1](Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/UniqueNo1.java)|
+| [Unique No.1] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/UniqueNo1.java)|
 | [Count Set Bits] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/BitsProblem/Countsetbits.java)|
 | [Position Set Bits](Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/BitsProblem/PositionSetBits.java)|
-| [Bits Difference](Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/BitsProblem/BitDifference.java)|
+| [Bits Difference] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/BitsProblem/BitDifference.java)|
+| [Unique Number 2] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/UniQueNo2.java)|
+| [Unique Number 3] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/UniQueNo3.java)|
+| [Maximum Profit XOR] (CodeForces) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/MaxXoR.java)|
