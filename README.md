@@ -43,3 +43,17 @@
 | [Unique Number 2] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/UniQueNo2.java)|
 | [Unique Number 3] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/UniQueNo3.java)|
 | [Maximum Profit XOR] (CodeForces) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/MaxXoR.java)|
+
+
+**Day 2: March 26,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Median of two sorted arrays] (CB) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/MedianOfTwoSortedarray.java)|
+| [Multiplication polynomial] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/MultiplicationOfPolynomial.java)|
+| [Power Function](CB) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/Power.cpp)|
+| [Sum of Digits until One] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/SumOfDigitsUntilOne.java)|
+| [Palindromic Array] () | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/PalindromicArray.java)|
+
