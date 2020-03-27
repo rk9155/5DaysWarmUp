@@ -57,3 +57,20 @@
 | [Sum of Digits until One] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/SumOfDigitsUntilOne.java)|
 | [Palindromic Array] () | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/PalindromicArray.java)|
 
+**Day 3: March 27,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Atm Machine Problem] (Codechef) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/AtmMachine.java)|
+| [Perfect Square In between] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/PerfectSquareInBetween.java)|
+
+| [Reverse BIts](CB) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/ReverseBits.java)|
+| [Conversion Problem] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/Convert0TO5.java)|
+| [Count no. divisible by M] () | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/CountNoDivisiblebyM.java)|
+| [FindingPositon] () | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/FindingPosition.java)|
+| [Perfect Square In Between] () | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/PerfectSquareInBetween.java)|
+
+
+
