@@ -65,7 +65,6 @@
 |-----------|----------------|
 | [Atm Machine Problem] (Codechef) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/AtmMachine.java)|
 | [Perfect Square In between] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/PerfectSquareInBetween.java)|
-
 | [Reverse BIts](CB) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/ReverseBits.java)|
 | [Conversion Problem] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/Convert0TO5.java)|
 | [Count no. divisible by M] () | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/CountNoDivisiblebyM.java)|
