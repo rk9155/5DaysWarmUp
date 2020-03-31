@@ -82,6 +82,20 @@
 | [LUCKFOUR] (CodeChef) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/LUCKFOUR.java)|
 | [Sum of digits Using String method] (Codechef) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/SumOfDigitsUsingString.java)|
 
+**Day 5: March 30,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Check Prime Faster] (CB) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/CheckPrimeFaster.java)|
+| [Extended Euclidian] | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/ExtendedEuclidian.java)|
+| [Factorial] (CB) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/Factorial.java)|
+| [Factorial Large Number] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/FactorialOfLargeNumber.java)|
+| [GCD] (Github) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/GCD1.java)|
+
+
+
 
 
 
