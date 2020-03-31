@@ -71,5 +71,18 @@
 | [FindingPositon] () | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/FindingPosition.java)|
 | [Perfect Square In Between] () | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/PerfectSquareInBetween.java)|
 
+**Day 4: March 29,2020**
+
+- Problem Solved:
+
+|**Problem**| **My Solution**|
+|-----------|----------------|
+| [Chef and Interesting subsequences] (Codechef) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/ChefAndInterestingSubsequences.java)|
+| [INTEST] (Codechef) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/Intest.java)|
+| [LUCKFOUR] (CodeChef) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/LUCKFOUR.java)|
+| [Sum of digits Using String method] (Codechef) | [solution](https://github.com/rk9155/100DaysOfCode/blob/master/SumOfDigitsUsingString.java)|
+
+
+
 
 
