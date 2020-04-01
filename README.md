@@ -1,4 +1,4 @@
-# 100DaysOfCode
+# 21DaysOfCode
 
 **Rakesh Kumar**
 
@@ -9,8 +9,7 @@
 ## Goals
 
 **Competitive Programming**
-- [ ] Increase [CodeChef](https://www.codechef.com/users/rashakdude) rating.
-- [ ] Increase [Codeforces](https://codeforces.com/profile/RajatAgrawal) rating.
+
 - [ ] Take Part in contest on Codechef And Codeforces
 
 **Project**
@@ -20,10 +19,8 @@
 **Learning Goals**
 - [ ] Learn React
 - [ ] Learn c++ advance
-- [ ] Learn Machine learning Basics
 
 **Courses**
-- [ ] Coding Blocks CP
 - [ ] Data Structures And Algorithms.
 
 ---
