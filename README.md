@@ -1,4 +1,4 @@
-# 21DaysOfCode
+# 5DaysWarmUpChallange
 
 **Rakesh Kumar**
 
@@ -10,15 +10,11 @@
 
 **Competitive Programming**
 
-- [ ] Take Part in contest on Codechef And Codeforces
-
 **Project**
 - [x] Complete the the project - CollegeAdda
-- [ ] Alumini website NITP
 
 **Learning Goals**
-- [ ] Learn React
-- [ ] Learn c++ advance
+- [x] Learn c++ advance
 
 **Courses**
 - [ ] Data Structures And Algorithms.
